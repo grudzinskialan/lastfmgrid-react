@@ -1,8 +1,3 @@
-# React + Vite
+# React.js app for creating grids of album covers
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+usage: after installing and running the app insert any last.fm username to generate a grid of user's most played albums in selected timeframe, with adjustable number of rows and columns
